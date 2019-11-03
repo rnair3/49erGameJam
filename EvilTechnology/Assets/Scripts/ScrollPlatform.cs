@@ -19,9 +19,9 @@ public class ScrollPlatform : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.Equals("KillPlatform"))
+        if (collision.gameObject.name.Equals("KillPlatform"))
         {
-            Destroy(this);
+            Destroy(gameObject);
         }
     }
 }

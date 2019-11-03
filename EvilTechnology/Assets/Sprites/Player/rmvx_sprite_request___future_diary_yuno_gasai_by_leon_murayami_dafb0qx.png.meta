@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 77461fa7da83f65409e3228e66dca4bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5170354387220426785
+    second: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_0
+  - first:
+      213: -4798875817125352817
+    second: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_1
+  - first:
+      213: 7313317692871595566
+    second: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_2
+  - first:
+      213: 3255482557767984153
+    second: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_3
+  - first:
+      213: 934840739734146189
+    second: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_4
+  - first:
+      213: -4021837626855016995
+    second: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_5
+  - first:
+      213: -8288913052370472301
+    second: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_6
+  - first:
+      213: 8438711867378487142
+    second: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_7
+  - first:
+      213: -5754771476954947464
+    second: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_8
+  - first:
+      213: -3626098100050155435
+    second: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_9
+  - first:
+      213: 7179859530396801930
+    second: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_10
+  - first:
+      213: -2410009144324273110
+    second: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55a1360400c60948986009596632a0a
+      internalID: 5170354387220426785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a39f59152c9514abdaa05629e18197
+      internalID: -4798875817125352817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa30e35fe0953645bf519b7ef34662d
+      internalID: 7313317692871595566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101112089051d9745af7a534d069146b
+      internalID: 3255482557767984153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91cc6e6577e2e248b3aab45d14dacfa
+      internalID: 934840739734146189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57817b8209af32478c407b3e4e78a1e
+      internalID: -4021837626855016995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccf1e2c9841a01458c72de54f65b1b0
+      internalID: -8288913052370472301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245941792c8e40d42b6ae4dc50cdd04e
+      internalID: 8438711867378487142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3893dd346c805334e976eb4e2b3ff31c
+      internalID: -5754771476954947464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ae89122332f5745ab74b24fa934052
+      internalID: -3626098100050155435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd7d8c5a8f1f5646b5ac1012a6bffcd
+      internalID: 7179859530396801930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmvx_sprite_request___future_diary_yuno_gasai_by_leon_murayami_dafb0qx_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ab415dfbdadc149adceba3ff038268
+      internalID: -2410009144324273110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bb5ddae2f6a74184c8d1c1a935b287db
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
