@@ -8,6 +8,7 @@ public class GameSession : MonoBehaviour
 
     private void Awake()
     {
+        score = 0;
         if (FindObjectsOfType(GetType()).Length > 1)
         {
             Destroy(gameObject);

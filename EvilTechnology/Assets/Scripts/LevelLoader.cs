@@ -7,6 +7,7 @@ public class LevelLoader : MonoBehaviour
 {
     public void StartButton()
     {
+        FindObjectOfType<GameSession>().ResetScore();
         SceneManager.LoadScene(1);
     }
 
